@@ -4,9 +4,6 @@ permalink: /posts/:title
 
 markdown: kramdown
 
-gems:
-• jekyll-sitemap
-
 title: 'rudegay'
 
 Page title: 'intro'
