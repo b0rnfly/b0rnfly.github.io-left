@@ -8,3 +8,5 @@ name: rudegay
 url: https://b0rnfly.github.io
 description: A fantastic blog that is fantastic.
 twitter: holman
+
+theme: jekyll-theme-cayman
