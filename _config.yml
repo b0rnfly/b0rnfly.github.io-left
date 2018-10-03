@@ -5,16 +5,14 @@ permalink: /posts/:title
 markdown: kramdown
 
 gems:
+• jekyll-sitemap
 
-- jekyll-sitemap
+title: 'rudegay'
 
-site title: 'rudegay'
+Page title: 'intro'
 
-url: 'https://b0rnfly.github.io'
-baseurl: '/'
+url: ' https://b0rnfly.github.io ' baseurl: '/'
 
 description: A fantastic blog that is fantastic.
 
 twitter: holman
-
-
