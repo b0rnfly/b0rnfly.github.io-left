@@ -1,1 +1,19 @@
 theme: jekyll-theme-slate
+
+permalink: /posts/:title
+
+markdown: kramdown
+
+gems:
+
+- jekyll-sitemap
+
+name: rudegay
+
+url: https://b0rnfly.github.io
+
+description: A fantastic blog that is fantastic.
+
+twitter: holman
+
+
