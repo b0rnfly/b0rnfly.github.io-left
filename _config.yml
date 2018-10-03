@@ -1,8 +1,8 @@
-theme: jekyll-theme-slate
-
 permalink: /posts/:title
 
 markdown: kramdown
+
+site info
 
 title: 'rudegay'
 
