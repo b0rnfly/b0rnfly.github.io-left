@@ -8,9 +8,10 @@ gems:
 
 - jekyll-sitemap
 
-name: rudegay
+site title: 'rudegay'
 
-url: https://b0rnfly.github.io
+url: 'https://b0rnfly.github.io'
+baseurl: '/'
 
 description: A fantastic blog that is fantastic.
 
